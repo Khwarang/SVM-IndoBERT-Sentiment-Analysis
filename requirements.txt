@@ -1,0 +1,7 @@
+streamlit
+joblib
+torch
+transformers
+scikit-learn
+youtube-comment-downloader
+yt-dlp
